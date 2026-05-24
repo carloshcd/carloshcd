@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Henrique Cabral Duarte @carloshcd
-- 👀 I’m interested in Digital Transformation, Requirements/Software Engineering, Distributed Systems, Public Policy.
+- 👀 I’m interested in Digital Transformation, Requirements/Software Engineering, Distributed Systems, and Public Policy.
 - 📫 You can reach me by email at carlos.duarte@computer.org.
 
 <!---
